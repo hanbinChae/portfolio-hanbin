@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+html{
+	margin: 0px;
+}
+
+.wrap_login{
+	padding-top:200px;
+	max-width: 1200px;
+	margin: 0px auto;
+	padding-left: 460px;
+}
+.form-control {
+    width: 350px;
+}
